@@ -1,0 +1,16 @@
+{
+  "name": "notificationapi-supabase-example",
+  "version": "1.0.0",
+  "description": "This example shows how to send notifications from Supabase Edge Functions using NotificationAPI",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "supabase": "^2.12.1",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "notificationapi-node-server-sdk": "^2.2.1"
+  }
+}

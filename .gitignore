@@ -1,0 +1,30 @@
+# Supabase
+**/tmp/
+**/.temp
+**/.env
+**/.branches
+.env.*
+!.env.example
+.branches
+.temp
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Compiled JavaScript files
+dist/
+*.js
+*.js.map
+
+# Environment variables
+# .env
+.env.local
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+
